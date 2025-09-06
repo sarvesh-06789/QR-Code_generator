@@ -14,8 +14,8 @@ Run `pip install qrcode`
 
 ### Screenshot showing the sample use of the script
 <p align="center">
-  <a href="output 1.png"><img src="https://user-images.githubusercontent.com/85709371/151921721-132e76c1-1604-49ad-9234-1ef3cc9ac45b.png" alt="url_qrcode"></a>
+  <img width="572" height="572" alt="python attendence" src="https://github.com/user-attachments/assets/2c344d2a-5444-4e73-a84a-178489a2e3ec" />
 </p>
 
 ## *Author Name*
-[Vikrant](https://github.com/vikrant-v28)
+[sharveshwaran M](https://github.com/sarvesh-06789)
